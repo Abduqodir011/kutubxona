@@ -31,6 +31,7 @@ input {
 .trending {
     padding: 20px;
     margin-top: 100px;
+    padding-bottom: 70px;
 }
 
 .books {
@@ -66,4 +67,10 @@ footer {
 }
 .bobo{
     height: 200px;
+}
+.bn{
+    color: rgb(72, 72, 222);
+}
+a{
+    text-decoration: none;
 }
